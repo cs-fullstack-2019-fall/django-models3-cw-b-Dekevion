@@ -1,5 +1,5 @@
 # django-models3-cw_b
-
+### You managed to build the routes and model and successfully print out the books in the terminal. 5/5 Score: 5/5
 ### Exercise 1
 Create a Book model with name, pageNumber, genre, and publishDate attributes. Create 2 entries using 2 different methods (admin site and class construtor using an endpoint).
 
